@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @krizpoon
-- 👀 I’m interested in JavaScript, TypeScript, Python, C/C++/Objective-C, Java, IoT, ML, AI
-- 🌱 I’m currently learning cyber-security, IaC, IoT
+- 👀 I’m interested in JS, TS, Python, Swift, Kotlin, C/C++/Objective-C, Java, IoT, ML, AI
 - 💞️ I’m looking to collaborate on anything exciting
 - 📫 How to reach me: krizpoon@gmail.com
 
